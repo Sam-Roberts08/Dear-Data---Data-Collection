@@ -1,4 +1,4 @@
-Day No.,Activity,Device,Time (m),People,ToD
+Day No.,Activity,Device,Time ,People,Period
 1,Gaming,PC,219,1,Evening
 2,Lectures,Laptop,130,0,Afternoon
 3,Studying,Laptop,163,0,Midday
@@ -13,3 +13,9 @@ Day No.,Activity,Device,Time (m),People,ToD
 12,Lectures,Laptop,98,2,Morning
 13,Gaming,Phone,58,0,Evening
 14,Studying,Laptop,181,0,Midday
+15,Gaming,Laptop,119,1,Evening
+16,Studying,PC,102,0,Midday
+17,Gaming,Console,163,3,Afternoon
+18,Lectures,Laptop,118,2,Morning
+19,Lectures,Laptop,116,2,Morning
+20,Studying,Laptop,192,0,Morning
